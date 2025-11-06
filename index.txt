@@ -1,0 +1,313 @@
+    1  ls
+    2  open .
+    3  mkdir tren
+    4  ls
+    5  cd tren/
+    6  nano linux.html
+    7  cat linux.html
+    8  ls
+    9  rm - r linux.html
+   10  ls
+   11  rm -r linux.html
+   12  ls
+   13  nano udal.html
+   14  ls
+   15  rm -r udal.html 
+   16  pwd
+   17  whoami
+   18  clear
+   19  cd
+   20  git --version
+   21  sudo apt install
+   22  sudo apt install git
+   23  git --version
+   24  cd test
+   25  cd tren/
+   26  ls
+   27  nano nado.html
+   28  ls -alt
+   29  git init
+   30  ls -alt
+   31  ls
+   32  git status
+   33  git add.
+   34  git add .
+   35  git commit -m "initial"
+   36  git config --global user.email "alina.17timof@gmail.com"
+   37  git config --global user.name "Alina"
+   38  git commit -m "initial"
+   39  git remote add origin https://github.com/cufcuf17/linuxproba.git
+   40  git branch -M main
+   41  git push -u origin main
+   42  ls
+   43  cd
+   44  nano token
+   45  cat token
+   46  cd tren/
+   47  git push -u origin main
+   48  ls
+   49  cd
+   50  rm -r token
+   51  ls
+   52  nano token
+   53  cd tren/
+   54  git push -u origin main
+   55  cd
+   56  ssh-keygen
+   57  ssh-keygen -t ed22519
+   58  ssh-keygen -t ed25519
+   59  ls
+   60  ls -alt
+   61  cd .ssh
+   62  ls
+   63  cat id_ed25519.pub
+   64  cd
+   65  ls
+   66  rm -r tren/
+   67  git clone git@github.com:cufcuf17/linuxproba.git
+   68  cd tren
+   69  cd tren\
+   70  ls
+   71  cd linuxproba/
+   72  ls
+   73  nano nado.html 
+   74  git status
+   75  git add .
+   76  git status
+   77  git commit -m "add h1"
+   78  git push
+   79  cd
+   80  ssh-keygen -t ed25519
+   81  y
+   82  ssh-keygen -t ed25519
+   83  ls -alt
+   84  cd .ssh
+   85  ls
+   86  cat id_ed25519.pub
+   87  cd
+   88  ls
+   89  cd
+   90  mkdir mint
+   91  cd mint/
+   92  nano random.html
+   93  git init
+   94  git add .
+   95  git commit -m "initial"
+   96  cat token
+   97  cd
+   98  cat token
+   99  cd mint/
+  100  git push -u origin master
+  101  git remote add origin https://github.com/cufcuf17/lunixvtoroe.git
+  102  git branch -M main
+  103  git push -u origin main
+  104  git remote add origin https://github.com/cufcuf17/lunixvtoroe.git
+  105  git branch -M main
+  106  git push -u origin main
+  107  ls
+  108  cd
+  109  ls
+  110  rm -r mint/
+  111  git clone git@github.com:cufcuf17/lunixvtoroe.git
+  112  ls
+  113  cd lunixvtoroe/
+  114  nano random.html 
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit -m "add h11"
+  119  git push
+  120  cd
+  121  touch rar
+  122  ls
+  123  nano rar
+  124  ls
+  125  cat rar
+  126  rm -r rar
+  127  ls
+  128  git --version
+  129  cd .ssh
+  130  ls
+  131  cd
+  132  mkdir lub
+  133  open .
+  134  cd lub/
+  135  nano iiii.html
+  136  git clone git@github.com:cufcuf17/svg.git
+  137  ls -a
+  138  rm -rf svaga/
+  139  ls -a
+  140  cd svg/
+  141  ls -a
+  142  nano 6748547.svg 
+  143  cd
+  144  ls -a
+  145  rm -rf svg
+  146  rm -rf prob4/
+  147  rm -rf linuxproba/
+  148  rm -rf lunixvtoroe/
+  149  ls -a
+  150  git clone git@github.com:cufcuf17/gvs.git
+  151  cd gvs/
+  152  ls -a
+  153  nano Yin_yang.svg 
+  154  cd
+  155  ls -a
+  156  rm -rf gvs/
+  157  git clone git@github.com:cufcuf17/catsvg.git
+  158  cd catsvg/
+  159  ls -a
+  160  nano cat.svg 
+  161  git branch
+  162  git branch dev
+  163  git branch checkout test
+  164  git branch chekout -b test
+  165  git checkout -b test
+  166  git branch
+  167  nano cat.svg 
+  168  git status
+  169  git add .
+  170  git commit -m "change color"
+  171  git push
+  172  git push --set-upstream origin test
+  173  git checkout dev
+  174  nano cat.svg 
+  175  git status
+  176  git add .
+  177  git commit -m "change blue"
+  178  git push --set-upstream origin dev
+  179  git log --graph --all
+  180  git checkout main
+  181  nano cat.svg 
+  182  git status
+  183  git add .
+  184  git commit -m "change main color"
+  185  git push --set-upstream origin main 
+  186  git log --graph --all
+  187  git checkout main
+  188  git merge dev
+  189  nanno cat.svg 
+  190  nano cat.svg 
+  191  git status
+  192  git add .
+  193  git commit -m "conflict v c y o "
+  194  git push
+  195  git log --graph --all
+  196  git branch
+  197  git config dev
+  198  git checkout dev
+  199  git merge test
+  200  nano cat.svg 
+  201  git merge test
+  202  git status
+  203  git add .
+  204  git commit -m "conflict minus"
+  205  git push
+  206  git log --graph --all
+  207  git log --oneline --graph --decorate --color --color
+  208  git log --oneline --graph --decorate --color
+  209  git log --oneline --graph --decorate
+  210  git log --graph --all
+  211  git log -- decorate
+  212  git log --decorate
+  213  git log --graph --all
+  214  git push origin -d dev 
+  215  git log --graph --all
+  216  git branch -d dev
+  217  hit branch -d test
+  218  git branch -d test
+  219  git branch -d dev
+  220  git log --graph --all
+  221  git log --graph
+  222  cd vvvvv/
+  223  nano file7 
+  224  git add .
+  225  git commit -m "initial commit"
+  226  nano file7 
+  227  git add .
+  228  git commit -m "1"
+  229  nano file7 
+  230  git add .
+  231  git commit -m "2"
+  232  nano file7 
+  233  git add .
+  234  git commit -m "3"
+  235  nano file7 
+  236  git add .
+  237  git commit -m "4"
+  238  git log --all
+  239  git revert --mixed commit 2b84b1e83c9a6561b83a156c911de1757de97dab
+  240  git revert --mixed 2b84b1e83c9a6561b83a156c911de1757de97dab
+  241  git reset --mixed 2b84b1e83c9a6561b83a156c911de1757de97dab
+  242  nano file7
+  243  git add .
+  244  git log --all
+  245  git status
+  246  git init
+  247  mkdir probbbb
+  248  ls -alt
+  249  cd
+  250  rm -rf .git
+  251  cd probbbb/
+  252  nano file66
+  253  [200~git remote add origin git@github.com:cufcuf17/test111.git
+  254  git branch -M main
+  255  git remote add origin git@github.com:cufcuf17/test111.git
+  256  git branch -M main
+  257  git push -u origin main
+  258  git init
+  259  git remote add origin git@github.com:cufcuf17/test111.git
+  260  git branch -M main
+  261  git push -u origin main
+  262  git add .
+  263  git commit -m "initial commit"
+  264  git remote add origin git@github.com:cufcuf17/test111.git
+  265  git branch -M main
+  266  git push -u origin main
+  267  nano file66 
+  268  git add .
+  269  git commit -m "1 commit"
+  270  nano file66 
+  271  git add .
+  272  git commit -m "2 commit"
+  273  nano file66 
+  274  git add .
+  275  git commit -m "3 commit"
+  276  nano file66 
+  277  git add .
+  278  git commit -m "4 commit"
+  279  git log --all
+  280  git checkout fc626fe6242d540f68eaea9ffdf6c31dd4563fa7
+  281  git checkout -b dev
+  282  git cherry-pick bc4dbd997be15ff565f4aa38eabc2c68930aaf90
+  283  nano file66 
+  284  git add .
+  285  git cherru-pick --continue
+  286  git cherry-pick --continue
+  287  git log --all
+  288  git log --all --oneline
+  289  git cherry-pick 4efba50
+  290  nano file66 
+  291  git add .
+  292  git cherry-pick --continue
+  293  git cherry-pick --abort
+  294  nano file66 
+  295  git add .
+  296  git commit -m "5 commit"
+  297  git branch
+  298  git checkout main
+  299  nano file66 
+  300  git add .
+  301  git commit -m "6 commit"
+  302  git merge dev
+  303  nano file66 
+  304  git add .
+  305  git merge --continue
+  306  git log --all --oneline
+  307  git revert 78c2328
+  308  nano file66 
+  309* 
+  310* 
+  311* 
+  312* history 
+  313  history > index.txt
